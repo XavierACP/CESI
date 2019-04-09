@@ -1,6 +1,6 @@
 # Description:
 #   Example scripts for you to examine and try out.
-#	Mon test
+#	Mon test de commit
 # Notes:
 #   They are commented out by default, because most of them are pretty silly and
 #   wouldn't be useful and amusing enough for day to day huboting.
